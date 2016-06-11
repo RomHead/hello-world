@@ -1,2 +1,1 @@
-# hello-world
-Just another just another repository
+I'm not 100% sure what I'm doing quite yet, but I'll get there. I want to make awesome digital creations and I keep seeing GitHub pop up in things that I read on the net. I hope I can be a productive and helpful member.
